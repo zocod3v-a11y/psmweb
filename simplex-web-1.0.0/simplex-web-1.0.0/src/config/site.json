@@ -79,11 +79,18 @@
       "Builder": "#a855f7"
     },
     "members": [
-      { "uuid": "601c3e79-9cc5-486f-8502-eedf1743aa9f", "rank": "Owner" },
-      { "uuid": "7b534d75-1f75-4592-afe3-d4dc88a8b2c7", "rank": "Admin" },
-      { "uuid": "fa603f36-0721-459d-9973-00543cfc63c4", "rank": "Moderator" },
-      { "uuid": "088fe793-aa54-43a2-a5eb-5790e704274c", "rank": "Builder" },
-      { "uuid": "7e6ef8ba-2767-4c0d-898b-810326492863", "rank": "Builder" }
+      { "uuid": "1309db24-6387-439d-a370-3b08110cffba", "rank": "Owner" },
+      { "uuid": "ef573a7c-179a-44a6-8ab7-40a4f2275c16", "rank": "Owner" },
+      { "uuid": "45dab636-6299-464e-ad0e-66beae29ccd6", "rank": "Sr. Helper" },
+      { "uuid": "", "rank": "Jr. Helper" }
+      { "uuid": "", "rank": "Jr. Helper" }
+      { "uuid": "", "rank": "Jr. Helper" }
+            { "uuid": "", "rank": "Jr. Helper" }
+       { "uuid": "", "rank": "Jr. Helper" }
+       { "uuid": "", "rank": "Jr. Helper" }
+      { "uuid": "", "rank": "Jr. Helper" }
+      { "uuid": "", "rank": "Jr. Helper" }
+
     ]
   },
   "vote": {
