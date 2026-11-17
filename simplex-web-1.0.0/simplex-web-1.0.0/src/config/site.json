@@ -2,31 +2,31 @@
   "language": "en",
   "theme": "emerald-dark",
   "meta": {
-    "title": "MyServer | Minecraft Server",
-    "description": "Join MyServer, the ultimate Minecraft survival experience."
+    "title": "PowerSMP | Minecraft Server",
+    "description": "Join PowerSMP, the ultimate Minecraft survival experience."
   },
   "server": {
-    "name": "MyServer",
-    "ip": "play.myserver.net",
+    "name": "PowerSMP",
+    "ip": "Soon",
     "maintenance": false,
     "statusApi": "https://api.mcsrvstat.us/3/{ip}",
     "refreshInterval": 60
   },
   "links": {
-    "discord": "https://discord.gg/example",
-    "shop": "https://shop.example.com"
+    "discord": "https://discord.gg/4hRa2h3x82",
+    "shop": "#"
   },
   "hero": {
     "backgroundImage": "/images/background.png",
     "logo": {
-      "image": "/images/logo.png",
-      "alt": "MyServer"
+      "image": "/images/powersmp.png",
+      "alt": "PowerSMP"
     },
     "slogan": "Build. Survive. Conquer.",
-    "copyNotice": "Server IP copied to clipboard!",
+    "copyNotice": "Coming Soon!",
     "buttons": {
       "discord": "Discord",
-      "shop": "Shop"
+      "shop": "Soon"
     }
   },
   "serverInfo": {
@@ -109,7 +109,7 @@
     "disclaimer": "Not affiliated with Mojang Studios or Microsoft.",
     "buttons": {
       "discord": "Discord",
-      "shop": "Shop"
+      "shop": "Soon"
     }
   }
 }
