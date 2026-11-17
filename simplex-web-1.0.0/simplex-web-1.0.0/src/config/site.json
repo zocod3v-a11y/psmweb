@@ -81,6 +81,7 @@
     "members": [
       { "uuid": "1309db24-6387-439d-a370-3b08110cffba", "rank": "Owner" },
       { "uuid": "ef573a7c-179a-44a6-8ab7-40a4f2275c16", "rank": "Owner" },
+      { "uuid": "6246ee38-e641-4bcc-99da-3d5aca2a6346", "rank": "Owner" },
       { "uuid": "45dab636-6299-464e-ad0e-66beae29ccd6", "rank": "Sr. Helper" },
       { "uuid": "435ee896-36f2-4724-967b-0b2244dc971e", "rank": "Jr. Helper" }
       { "uuid": "4dcf7925-a5df-47fc-bef7-41528ae2b713", "rank": "Jr. Helper" }
