@@ -73,10 +73,10 @@
     "unknownName": "Unknown",
     "scrollSpeed": 50,
     "ranks": {
-      "Owner": "#ef4444",
-      "Admin": "#f97316",
-      "Moderator": "#3b82f6",
-      "Builder": "#a855f7"
+      "Owner": "#00FF05",
+      "Admin": "#00FF05",
+      "Moderator": "#00FF05",
+      "Jr. Helper": "#00FF05"
     },
     "members": [
       { "uuid": "1309db24-6387-439d-a370-3b08110cffba", "rank": "Owner" },
