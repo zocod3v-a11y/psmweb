@@ -82,14 +82,15 @@
       { "uuid": "1309db24-6387-439d-a370-3b08110cffba", "rank": "Owner" },
       { "uuid": "ef573a7c-179a-44a6-8ab7-40a4f2275c16", "rank": "Owner" },
       { "uuid": "45dab636-6299-464e-ad0e-66beae29ccd6", "rank": "Sr. Helper" },
-      { "uuid": "", "rank": "Jr. Helper" }
-      { "uuid": "", "rank": "Jr. Helper" }
-      { "uuid": "", "rank": "Jr. Helper" }
-            { "uuid": "", "rank": "Jr. Helper" }
-       { "uuid": "", "rank": "Jr. Helper" }
-       { "uuid": "", "rank": "Jr. Helper" }
-      { "uuid": "", "rank": "Jr. Helper" }
-      { "uuid": "", "rank": "Jr. Helper" }
+      { "uuid": "435ee896-36f2-4724-967b-0b2244dc971e", "rank": "Jr. Helper" }
+      { "uuid": "4dcf7925-a5df-47fc-bef7-41528ae2b713", "rank": "Jr. Helper" }
+      { "uuid": "acd5ea26-e431-40bb-8dd8-17dbe2855f9f", "rank": "Jr. Helper" }
+      { "uuid": "1f3bfa42-7696-445a-8690-61588f07d105", "rank": "Jr. Helper" }
+      { "uuid": "d9c1010e-0579-4e55-afc3-34793c1ea162", "rank": "Jr. Helper" }
+      { "uuid": "9d66017f-bc4e-4794-8b2c-6a777e852667", "rank": "Jr. Helper" }
+      { "uuid": "a530c0df-eba0-4b70-ab65-a80c5a2d8d71", "rank": "Jr. Helper" }
+      { "uuid": "fb73c679-ab1d-4592-a9cc-ad4f62c745f0", "rank": "Jr. Helper" }
+      { "uuid": "89d6cff5-4b5e-4b4f-9e52-ef56cde48cfe", "rank": "Jr. Helper" }
 
     ]
   },
